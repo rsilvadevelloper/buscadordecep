@@ -1,4 +1,4 @@
-# REACT JS, 
+# React JS, 
 
 # Este projeto é uma aplicação React que permite ao usuário buscar informações de um CEP e exibi-las na tela. Ele utiliza uma API pública para obter os dados, como endereço, bairro, cidade e estado.
 # Tecnologias utilizadas
